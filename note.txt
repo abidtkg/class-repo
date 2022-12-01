@@ -1,0 +1,30 @@
+# DATA TYPE
+    Hey man how are you? I'm having truble with my feaver. It's getting 101 deg celcious now.
+    Charecter (ABab)
+    Special Charecter (?'.#@+%)
+    Numaric (12349840)
+
+    > String (My name is something.) 'single quote' "double quote" "&,1jasdfK"
+    > Number (464789) 90.50 (-10, +30)
+    > Boolean (True 1, Flase 0)
+
+    // truck driver
+    male / female
+    if male -> allow
+    if female -> deny
+
+    am_i_male = true;
+    if(am_i_male == true) return 'i am allow to register'
+
+    if(brc == true) {
+        give your parent info
+    }
+    if(brc == false) {
+        your personal
+    }
+
+    brc = false (0)
+
+    # array = [1,4,523,5,3,4]
+    # object = {name: 'abid', age: 34};
+
